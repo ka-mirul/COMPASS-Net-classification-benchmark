@@ -1,0 +1,52 @@
+{
+  "created_at": "2026-09-30T18:23:07.342148+01:00",
+  "model": "saratrx",
+  "goal": "nastar",
+  "run_size": "full",
+  "training_mode": "linear_probe",
+  "classes": [
+    "Tanker",
+    "Fishing",
+    "Cargo"
+  ],
+  "image_size": 256,
+  "image_transform": "center_crop",
+  "input_channels": 1,
+  "polarizations": null,
+  "input_projection_adaptation": "none",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 32,
+    "epochs": 50,
+    "head_lr": 0.001,
+    "backbone_lr": 0.0,
+    "weight_decay": 0.0001,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "warmup_epochs": 2
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "source_checkpoint": "SARATR-X/checkpoints/checkpoint-200.pth",
+  "source_checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "source_repository": "SARATR-X",
+  "source_commit": "8f110555e32e5777034c5ab6729d23bcf9741936",
+  "source_worktree_status": [
+    "?? .gitignore",
+    "?? requirements-notebook.txt"
+  ]
+}

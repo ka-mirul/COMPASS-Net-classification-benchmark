@@ -1,0 +1,4 @@
+split,Tanker,General Cargo,Fishing,Container Ship,Bulk Carrier
+train,103,29,549,45,191
+validation,15,4,79,7,27
+test,30,8,157,13,55

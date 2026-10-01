@@ -1,0 +1,12 @@
+Platform: Linux-6.8.0-138-generic-x86_64-with-glibc2.35
+Python: 3.10.12
+Python executable: ${PROJECT_ROOT}/SARATR-X/.venv/bin/python
+PyTorch: 2.1.1+cu121
+CUDA runtime: 12.1
+cuDNN: 8902
+GPU and driver: NVIDIA GeForce RTX 3090, 550.163.01
+Deterministic algorithms: True
+Automatic mixed precision: False
+Number of workers: 0
+Source repository: SARATR-X
+Source commit: 8f110555e32e5777034c5ab6729d23bcf9741936

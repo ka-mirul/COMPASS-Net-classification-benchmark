@@ -1,0 +1,79 @@
+{
+  "seed": 45,
+  "best_epoch": 27,
+  "best_validation_loss": 0.7977618158805939,
+  "test_loss": 1.1188103897836141,
+  "elapsed_seconds": 472.5890497310029,
+  "peak_cuda_memory_MB": 1385.69384765625,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.8740157480314961,
+  "best_validation_AA": 0.6843345197806044,
+  "best_validation_APr": 0.8671511627906976,
+  "best_validation_AF1": 0.7188186813186814,
+  "OA": 0.8412698412698413,
+  "AA": 0.7094357652357329,
+  "APr": 0.7192903766585819,
+  "AF1": 0.7125283922318687,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_185906_opensar4_saratrx_full_finetune/runs/seed_45/best_model.pth",
+  "trained_model_sha256": "238b6c750019fad49ac957a6c4b786477d72e6a86e7bb638fbb34551becd4cd3",
+  "split_manifest": "splits/seed_45.csv",
+  "dataset_fingerprint": "85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc",
+  "confusion_matrix": [
+    [
+      32,
+      3,
+      3,
+      0
+    ],
+    [
+      3,
+      3,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      29,
+      14
+    ],
+    [
+      7,
+      0,
+      8,
+      148
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.7441860465116279,
+      "recall": 0.8421052631578947,
+      "f1": 0.7901234567901234,
+      "support": 38
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.5,
+      "recall": 0.42857142857142855,
+      "f1": 0.46153846153846156,
+      "support": 7
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.725,
+      "recall": 0.6590909090909091,
+      "f1": 0.6904761904761905,
+      "support": 44
+    },
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.9079754601226994,
+      "recall": 0.9079754601226994,
+      "f1": 0.9079754601226994,
+      "support": 163
+    }
+  ]
+}

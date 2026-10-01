@@ -1,0 +1,24 @@
+SAR ship classification experiment
+
+Goal: fusar
+Model: saratrx
+Training mode: linear_probe
+Runs: 5
+Seeds: 42, 43, 44, 45, 46
+Dataset fingerprint: 582b7536c5cc56d0ae2264850ac2aa174c75030561f6377e477417d2a0348ec3
+Total time: 00:22:46
+
+Results by run (%)
+ seed    OA    AA   APr   AF1  best_epoch     time
+   42 82.89 59.92 57.68 58.58           9 00:04:29
+   43 83.27 61.78 64.36 62.02          16 00:04:30
+   44 84.41 65.55 69.29 66.43          38 00:04:31
+   45 85.17 60.17 66.88 61.38          14 00:04:32
+   46 79.09 63.00 73.75 61.06           4 00:04:30
+
+Final metrics: mean ± sample standard deviation (%)
+Metric  mean  std mean ± std (%)
+    OA 82.97 2.35   82.97 ± 2.35
+    AA 62.08 2.31   62.08 ± 2.31
+   APr 66.39 5.98   66.39 ± 5.98
+   AF1 61.89 2.85   61.89 ± 2.85

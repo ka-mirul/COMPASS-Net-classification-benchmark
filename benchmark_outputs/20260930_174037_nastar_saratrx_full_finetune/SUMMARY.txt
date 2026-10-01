@@ -1,0 +1,24 @@
+SAR ship classification experiment
+
+Goal: nastar
+Model: saratrx
+Training mode: full_finetune
+Runs: 5
+Seeds: 42, 43, 44, 45, 46
+Dataset fingerprint: 11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf
+Total time: 00:41:37
+
+Results by run (%)
+ seed    OA    AA   APr   AF1  best_epoch     time
+   42 66.47 64.81 65.15 64.80          22 00:08:24
+   43 69.41 66.76 69.48 67.95          32 00:08:15
+   44 60.59 57.38 60.38 58.39          33 00:08:19
+   45 62.94 62.23 68.62 63.64          33 00:08:12
+   46 58.82 56.48 59.20 57.47          22 00:08:15
+
+Final metrics: mean ± sample standard deviation (%)
+Metric  mean  std mean ± std (%)
+    OA 63.65 4.31   63.65 ± 4.31
+    AA 61.53 4.51   61.53 ± 4.51
+   APr 64.57 4.67   64.57 ± 4.67
+   AF1 62.45 4.43   62.45 ± 4.43

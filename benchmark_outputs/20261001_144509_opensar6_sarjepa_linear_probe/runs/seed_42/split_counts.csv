@@ -1,0 +1,4 @@
+split,Bulk Carrier,Container Ship,Dredger,Fishing,Tanker,Tug
+train,571,152,15,24,132,12
+validation,82,22,2,4,19,2
+test,163,44,4,7,38,4

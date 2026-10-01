@@ -1,0 +1,106 @@
+{
+  "created_at": "2026-09-30T17:40:41.948546+01:00",
+  "model": "saratrx",
+  "goal": "nastar",
+  "run_size": "full",
+  "training_mode": "full_finetune",
+  "classes": [
+    "Tanker",
+    "Fishing",
+    "Cargo"
+  ],
+  "image_size": 256,
+  "image_transform": "center_crop",
+  "input_channels": 1,
+  "polarizations": null,
+  "input_projection_adaptation": "none",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 8,
+    "epochs": 50,
+    "head_lr": 0.0001,
+    "backbone_lr": 3e-06,
+    "weight_decay": 0.0001,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "warmup_epochs": 5
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "source_checkpoint": "SARATR-X/checkpoints/checkpoint-200.pth",
+  "source_checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "source_repository": "SARATR-X",
+  "source_commit": "8f110555e32e5777034c5ab6729d23bcf9741936",
+  "source_worktree_status": [
+    "?? .gitignore",
+    "?? requirements-notebook.txt"
+  ],
+  "seed": 42,
+  "best_epoch": 22,
+  "best_validation_loss": 0.8461062157855315,
+  "test_loss": 0.8926940192194546,
+  "elapsed_seconds": 504.067283716,
+  "peak_cuda_memory_MB": 3313.4951171875,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.6823529411764706,
+  "best_validation_AA": 0.6630434782608695,
+  "best_validation_APr": 0.6884072927416581,
+  "best_validation_AF1": 0.6732175189109011,
+  "OA": 0.6647058823529411,
+  "AA": 0.6480978260869565,
+  "APr": 0.6515151515151515,
+  "AF1": 0.6480416035389858,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_174037_nastar_saratrx_full_finetune/runs/seed_42/best_model.pth",
+  "trained_model_sha256": "32d2cfaa490216789a685648c306ce42215dc0816571f94576389cf8df9edd7c",
+  "split_manifest": "splits/seed_42.csv",
+  "confusion_matrix": [
+    [
+      19,
+      4,
+      23
+    ],
+    [
+      0,
+      25,
+      7
+    ],
+    [
+      19,
+      4,
+      69
+    ]
+  ],
+  "split_counts": {
+    "Tanker": {
+      "train": 159,
+      "validation": 23,
+      "test": 46
+    },
+    "Fishing": {
+      "train": 110,
+      "validation": 16,
+      "test": 32
+    },
+    "Cargo": {
+      "train": 321,
+      "validation": 46,
+      "test": 92
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "seed": 46,
+  "best_epoch": 27,
+  "best_validation_loss": 0.974166215167326,
+  "test_loss": 0.8732317461686976,
+  "elapsed_seconds": 212.67984682899987,
+  "peak_cuda_memory_MB": 746.81201171875,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.5647058823529412,
+  "best_validation_AA": 0.5896739130434782,
+  "best_validation_APr": 0.5436507936507936,
+  "best_validation_AF1": 0.5472327290117821,
+  "OA": 0.5588235294117647,
+  "AA": 0.5797101449275363,
+  "APr": 0.5408167141500475,
+  "AF1": 0.5485164882250658,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_164027_nastar_sarjepa_linear_probe/runs/seed_46/best_model.pth",
+  "trained_model_sha256": "0dcdfc309519da80a2a116da35ac575122252a33c3b8d43b67481cc305afa310",
+  "split_manifest": "splits/seed_46.csv",
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "confusion_matrix": [
+    [
+      20,
+      2,
+      24
+    ],
+    [
+      2,
+      24,
+      6
+    ],
+    [
+      17,
+      24,
+      51
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.5128205128205128,
+      "recall": 0.43478260869565216,
+      "f1": 0.47058823529411764,
+      "support": 46
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.48,
+      "recall": 0.75,
+      "f1": 0.5853658536585366,
+      "support": 32
+    },
+    {
+      "class": "Cargo",
+      "precision": 0.6296296296296297,
+      "recall": 0.5543478260869565,
+      "f1": 0.5895953757225434,
+      "support": 92
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "seed": 43,
+  "best_epoch": 15,
+  "best_validation_loss": 0.6284340421749851,
+  "test_loss": 0.6856965315084727,
+  "elapsed_seconds": 358.7613619780001,
+  "peak_cuda_memory_MB": 1704.17919921875,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.84251968503937,
+  "best_validation_AA": 0.7250700198389544,
+  "best_validation_APr": 0.846547314578005,
+  "best_validation_AF1": 0.7602651839178785,
+  "OA": 0.8134920634920635,
+  "AA": 0.6194497502820073,
+  "APr": 0.7474721750613093,
+  "AF1": 0.6591182036724464,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_135607_opensar4_sarjepa_full_finetune/runs/seed_43/best_model.pth",
+  "trained_model_sha256": "c4812894a8a8752161ad740796440b66892f78857b0831391fd18c42d7eaeb49",
+  "split_manifest": "splits/seed_43.csv",
+  "dataset_fingerprint": "85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc",
+  "confusion_matrix": [
+    [
+      28,
+      1,
+      0,
+      9
+    ],
+    [
+      5,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      23,
+      19
+    ],
+    [
+      3,
+      0,
+      8,
+      152
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.7368421052631579,
+      "recall": 0.7368421052631579,
+      "f1": 0.7368421052631579,
+      "support": 38
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.6666666666666666,
+      "recall": 0.2857142857142857,
+      "f1": 0.4,
+      "support": 7
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.7419354838709677,
+      "recall": 0.5227272727272727,
+      "f1": 0.6133333333333333,
+      "support": 44
+    },
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.8444444444444444,
+      "recall": 0.9325153374233128,
+      "f1": 0.8862973760932945,
+      "support": 163
+    }
+  ]
+}

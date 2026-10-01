@@ -1,0 +1,160 @@
+{
+  "created_at": "2026-09-30T20:49:00.321180+01:00",
+  "model": "saratrx",
+  "goal": "opensar6",
+  "run_size": "full",
+  "training_mode": "linear_probe",
+  "classes": [
+    "Bulk Carrier",
+    "Container Ship",
+    "Dredger",
+    "Fishing",
+    "Tanker",
+    "Tug"
+  ],
+  "image_size": 128,
+  "image_transform": "resize",
+  "input_channels": 2,
+  "polarizations": [
+    "VV",
+    "VH"
+  ],
+  "input_projection_adaptation": "sum pretrained input-channel weights and distribute equally across VV/VH",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 32,
+    "epochs": 50,
+    "head_lr": 0.001,
+    "backbone_lr": 0.0,
+    "weight_decay": 0.0001,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "warmup_epochs": 2
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "799abf442d818be4e9c26fcfab4506b0666e1f4b61d7f7507b305e0846672603",
+  "source_checkpoint": "SARATR-X/checkpoints/checkpoint-200.pth",
+  "source_checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "source_repository": "SARATR-X",
+  "source_commit": "8f110555e32e5777034c5ab6729d23bcf9741936",
+  "source_worktree_status": [
+    "?? .gitignore",
+    "?? requirements-notebook.txt"
+  ],
+  "seed": 46,
+  "best_epoch": 10,
+  "best_validation_loss": 0.7617379736354333,
+  "test_loss": 0.5727452754974365,
+  "elapsed_seconds": 111.1428653059993,
+  "peak_cuda_memory_MB": 452.76904296875,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.7862595419847328,
+  "best_validation_AA": 0.4811870307698293,
+  "best_validation_APr": 0.5035403050108932,
+  "best_validation_AF1": 0.4911420402438367,
+  "OA": 0.7961538461538461,
+  "AA": 0.45908779897317187,
+  "APr": 0.498671497584541,
+  "AF1": 0.46927336662885066,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_204856_opensar6_saratrx_linear_probe/runs/seed_46/best_model.pth",
+  "trained_model_sha256": "d1c42e3482f3f998c4337c526c8b4a7eaeff0efce2b5e6a60abc565ede34070a",
+  "split_manifest": "splits/seed_46.csv",
+  "confusion_matrix": [
+    [
+      158,
+      4,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      23,
+      19,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      6,
+      0
+    ],
+    [
+      3,
+      1,
+      2,
+      3,
+      27,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      2,
+      0
+    ]
+  ],
+  "split_counts": {
+    "Bulk Carrier": {
+      "train": 571,
+      "validation": 82,
+      "test": 163
+    },
+    "Container Ship": {
+      "train": 152,
+      "validation": 22,
+      "test": 44
+    },
+    "Dredger": {
+      "train": 15,
+      "validation": 2,
+      "test": 4
+    },
+    "Fishing": {
+      "train": 24,
+      "validation": 4,
+      "test": 7
+    },
+    "Tanker": {
+      "train": 132,
+      "validation": 19,
+      "test": 38
+    },
+    "Tug": {
+      "train": 12,
+      "validation": 2,
+      "test": 4
+    }
+  }
+}

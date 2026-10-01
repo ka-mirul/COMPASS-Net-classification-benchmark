@@ -1,0 +1,97 @@
+{
+  "seed": 43,
+  "best_epoch": 25,
+  "best_validation_loss": 0.6112906957207473,
+  "test_loss": 0.7327894937479869,
+  "elapsed_seconds": 718.0204295689982,
+  "peak_cuda_memory_MB": 3313.5107421875,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.8636363636363636,
+  "best_validation_AA": 0.661008639742817,
+  "best_validation_APr": 0.6446153846153846,
+  "best_validation_AF1": 0.6516306580199676,
+  "OA": 0.8517110266159695,
+  "AA": 0.63607812569596,
+  "APr": 0.6981598193382641,
+  "AF1": 0.6592294699835684,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_212237_fusar_saratrx_full_finetune/runs/seed_43/best_model.pth",
+  "trained_model_sha256": "2983e6d3b828c40181dc76f6be6a62f6f211a46323e1fb3084d8ab425970fb58",
+  "split_manifest": "splits/seed_43.csv",
+  "dataset_fingerprint": "582b7536c5cc56d0ae2264850ac2aa174c75030561f6377e477417d2a0348ec3",
+  "confusion_matrix": [
+    [
+      30,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      0,
+      3
+    ],
+    [
+      1,
+      1,
+      152,
+      1,
+      2
+    ],
+    [
+      0,
+      1,
+      4,
+      4,
+      4
+    ],
+    [
+      0,
+      1,
+      14,
+      4,
+      36
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.967741935483871,
+      "recall": 1.0,
+      "f1": 0.9836065573770492,
+      "support": 30
+    },
+    {
+      "class": "General Cargo",
+      "precision": 0.4,
+      "recall": 0.25,
+      "f1": 0.3076923076923077,
+      "support": 8
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.8786127167630058,
+      "recall": 0.9681528662420382,
+      "f1": 0.9212121212121213,
+      "support": 157
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.4444444444444444,
+      "recall": 0.3076923076923077,
+      "f1": 0.36363636363636365,
+      "support": 13
+    },
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.8,
+      "recall": 0.6545454545454545,
+      "f1": 0.72,
+      "support": 55
+    }
+  ]
+}

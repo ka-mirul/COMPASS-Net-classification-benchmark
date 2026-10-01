@@ -1,0 +1,24 @@
+SAR ship classification experiment
+
+Goal: opensar4
+Model: sarjepa
+Training mode: full_finetune
+Runs: 5
+Seeds: 42, 43, 44, 45, 46
+Dataset fingerprint: 85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc
+Total time: 00:30:11
+
+Results by run (%)
+ seed    OA    AA   APr   AF1  best_epoch     time
+   42 83.33 66.22 72.43 68.53          33 00:05:59
+   43 81.35 61.94 74.75 65.91          15 00:05:59
+   44 78.57 69.34 67.91 67.84          26 00:06:00
+   45 81.75 68.60 66.67 67.26          35 00:05:59
+   46 79.76 61.30 64.24 62.63          18 00:05:58
+
+Final metrics: mean ± sample standard deviation (%)
+Metric  mean  std mean ± std (%)
+    OA 80.95 1.84   80.95 ± 1.84
+    AA 65.48 3.71   65.48 ± 3.71
+   APr 69.20 4.30   69.20 ± 4.30
+   AF1 66.43 2.33   66.43 ± 2.33

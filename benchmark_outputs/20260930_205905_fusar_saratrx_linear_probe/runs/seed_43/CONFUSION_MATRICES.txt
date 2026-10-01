@@ -1,0 +1,25 @@
+Rows are true classes; columns are predicted classes.
+
+Raw counts
+                Tanker  General Cargo  Fishing  Container Ship  Bulk Carrier
+Tanker              30              0        0               0             0
+General Cargo        0              1        2               1             4
+Fishing              3              1      143               1             9
+Container Ship       0              1        4               4             4
+Bulk Carrier         0              0        9               5            41
+
+Row-normalized recall
+                Tanker  General Cargo  Fishing  Container Ship  Bulk Carrier
+Tanker          1.0000         0.0000   0.0000          0.0000        0.0000
+General Cargo   0.0000         0.1250   0.2500          0.1250        0.5000
+Fishing         0.0191         0.0064   0.9108          0.0064        0.0573
+Container Ship  0.0000         0.0769   0.3077          0.3077        0.3077
+Bulk Carrier    0.0000         0.0000   0.1636          0.0909        0.7455
+
+Column-normalized precision
+                Tanker  General Cargo  Fishing  Container Ship  Bulk Carrier
+Tanker          0.9091         0.0000   0.0000          0.0000        0.0000
+General Cargo   0.0000         0.3333   0.0127          0.0909        0.0690
+Fishing         0.0909         0.3333   0.9051          0.0909        0.1552
+Container Ship  0.0000         0.3333   0.0253          0.3636        0.0690
+Bulk Carrier    0.0000         0.0000   0.0570          0.4545        0.7069

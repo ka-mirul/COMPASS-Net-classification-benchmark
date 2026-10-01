@@ -1,0 +1,79 @@
+{
+  "seed": 46,
+  "best_epoch": 18,
+  "best_validation_loss": 0.6360206840794504,
+  "test_loss": 0.7641689928159827,
+  "elapsed_seconds": 358.28505676299983,
+  "peak_cuda_memory_MB": 1704.17919921875,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.8346456692913385,
+  "best_validation_AA": 0.7000087524798693,
+  "best_validation_APr": 0.7704741379310345,
+  "best_validation_AF1": 0.7304999115374786,
+  "OA": 0.7976190476190477,
+  "AA": 0.6129772108743694,
+  "APr": 0.6423568793267835,
+  "AF1": 0.6262822952963798,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_135607_opensar4_sarjepa_full_finetune/runs/seed_46/best_model.pth",
+  "trained_model_sha256": "b10461e7736145ebb516896dbdf4cf4bcd1bf68a71ad801af38a44325c92a6ac",
+  "split_manifest": "splits/seed_46.csv",
+  "dataset_fingerprint": "85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc",
+  "confusion_matrix": [
+    [
+      23,
+      4,
+      1,
+      10
+    ],
+    [
+      4,
+      2,
+      1,
+      0
+    ],
+    [
+      2,
+      0,
+      29,
+      13
+    ],
+    [
+      4,
+      0,
+      12,
+      147
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.696969696969697,
+      "recall": 0.6052631578947368,
+      "f1": 0.647887323943662,
+      "support": 38
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.3333333333333333,
+      "recall": 0.2857142857142857,
+      "f1": 0.3076923076923077,
+      "support": 7
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.6744186046511628,
+      "recall": 0.6590909090909091,
+      "f1": 0.6666666666666666,
+      "support": 44
+    },
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.8647058823529412,
+      "recall": 0.901840490797546,
+      "f1": 0.8828828828828829,
+      "support": 163
+    }
+  ]
+}

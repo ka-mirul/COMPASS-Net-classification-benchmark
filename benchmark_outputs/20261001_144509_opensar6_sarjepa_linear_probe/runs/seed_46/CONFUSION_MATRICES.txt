@@ -1,0 +1,28 @@
+Rows are true classes; columns are predicted classes.
+
+Raw counts
+                Bulk Carrier  Container Ship  Dredger  Fishing  Tanker  Tug
+Bulk Carrier             148              12        0        1       2    0
+Container Ship            14              27        1        1       1    0
+Dredger                    0               0        1        0       3    0
+Fishing                    0               0        0        1       6    0
+Tanker                     7               0        1        6      24    0
+Tug                        0               0        0        1       2    1
+
+Row-normalized recall
+                Bulk Carrier  Container Ship  Dredger  Fishing  Tanker    Tug
+Bulk Carrier          0.9080          0.0736   0.0000   0.0061  0.0123 0.0000
+Container Ship        0.3182          0.6136   0.0227   0.0227  0.0227 0.0000
+Dredger               0.0000          0.0000   0.2500   0.0000  0.7500 0.0000
+Fishing               0.0000          0.0000   0.0000   0.1429  0.8571 0.0000
+Tanker                0.1842          0.0000   0.0263   0.1579  0.6316 0.0000
+Tug                   0.0000          0.0000   0.0000   0.2500  0.5000 0.2500
+
+Column-normalized precision
+                Bulk Carrier  Container Ship  Dredger  Fishing  Tanker    Tug
+Bulk Carrier          0.8757          0.3077   0.0000   0.1000  0.0526 0.0000
+Container Ship        0.0828          0.6923   0.3333   0.1000  0.0263 0.0000
+Dredger               0.0000          0.0000   0.3333   0.0000  0.0789 0.0000
+Fishing               0.0000          0.0000   0.0000   0.1000  0.1579 0.0000
+Tanker                0.0414          0.0000   0.3333   0.6000  0.6316 0.0000
+Tug                   0.0000          0.0000   0.0000   0.1000  0.0526 1.0000

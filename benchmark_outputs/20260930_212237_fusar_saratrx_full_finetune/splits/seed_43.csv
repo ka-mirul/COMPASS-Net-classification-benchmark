@@ -1,0 +1,1313 @@
+sample_id,label_name,label,split
+Cargo/BulkCarrier/Ship_C01S02N0001.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0002.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0003.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0004.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0005.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0006.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0007.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0008.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0009.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0010.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0011.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0012.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0013.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0014.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0015.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0016.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0017.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0018.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0019.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0020.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0021.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0022.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0023.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0024.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0025.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0026.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0027.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0028.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0029.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0030.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0031.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0032.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0033.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0034.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0035.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0036.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0037.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0038.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0039.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0040.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0041.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0042.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0043.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0044.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0045.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0046.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0047.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0048.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0049.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0050.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0051.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0052.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0053.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0054.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0055.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0056.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0057.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0058.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0059.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0060.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0061.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0062.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0063.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0064.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0065.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0066.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0067.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0068.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0069.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0070.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0071.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0072.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0073.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0074.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0075.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0076.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0077.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0078.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0079.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0080.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0081.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0082.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0083.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0084.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0085.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0086.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0087.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0088.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0089.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0090.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0091.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0092.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0093.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0094.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0095.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0096.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0097.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0098.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0099.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0100.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0101.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0102.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0103.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0104.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0105.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0106.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0107.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0108.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0109.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0110.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0111.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0112.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0113.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0114.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0115.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0116.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0117.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0118.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0119.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0120.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0121.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0122.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0123.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0124.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0125.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0126.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0127.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0128.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0129.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0130.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0131.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0132.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0133.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0134.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0135.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0136.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0137.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0138.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0139.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0140.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0141.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0142.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0143.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0144.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0145.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0146.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0147.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0148.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0149.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0150.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0151.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0152.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0153.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0154.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0155.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0156.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0157.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0158.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0159.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0160.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0161.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0162.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0163.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0164.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0165.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0166.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0167.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0168.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0169.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0170.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0171.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0172.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0173.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0174.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0175.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0176.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0177.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0178.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0179.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0180.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0181.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0182.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0183.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0184.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0185.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0186.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0187.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0188.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0189.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0190.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0191.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0192.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0193.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0194.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0195.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0196.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0197.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0198.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0199.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0200.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0201.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0202.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0203.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0204.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0205.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0206.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0207.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0208.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0209.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0210.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0211.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0212.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0213.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0214.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0215.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0216.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0217.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0218.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0219.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0220.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0221.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0222.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0223.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0224.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0225.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0226.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0227.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0228.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0229.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0230.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0231.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0232.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0233.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0234.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0235.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0236.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0237.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0238.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0239.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0240.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0241.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0242.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0243.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0244.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0245.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0246.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0247.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0248.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0249.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0250.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0251.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0252.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0253.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0254.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0255.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0256.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0257.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0258.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0259.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0260.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0261.tiff,Bulk Carrier,4,validation
+Cargo/BulkCarrier/Ship_C01S02N0262.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0263.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0264.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0265.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0266.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0267.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0268.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0269.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0270.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0271.tiff,Bulk Carrier,4,train
+Cargo/BulkCarrier/Ship_C01S02N0272.tiff,Bulk Carrier,4,test
+Cargo/BulkCarrier/Ship_C01S02N0273.tiff,Bulk Carrier,4,train
+Cargo/ContainerShip/Ship_C01S08N0001.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0002.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0003.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0004.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0005.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0006.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0007.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0008.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0009.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0010.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0011.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0012.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0013.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0014.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0015.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0016.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0017.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0018.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0019.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0020.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0021.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0022.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0023.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0024.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0025.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0026.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0027.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0028.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0029.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0030.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0031.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0032.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0033.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0034.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0035.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0036.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0037.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0038.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0039.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0040.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0041.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0042.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0043.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0044.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0045.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0046.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0047.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0048.tiff,Container Ship,3,test
+Cargo/ContainerShip/Ship_C01S08N0049.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0050.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0051.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0052.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0053.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0054.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0055.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0056.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0057.tiff,Container Ship,3,validation
+Cargo/ContainerShip/Ship_C01S08N0058.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0059.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0060.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0061.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0062.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0063.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0064.tiff,Container Ship,3,train
+Cargo/ContainerShip/Ship_C01S08N0065.tiff,Container Ship,3,test
+Cargo/GeneralCargo/Ship_C01S10N0001.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0002.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0003.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0004.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0005.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0006.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0007.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0008.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0009.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0010.tiff,General Cargo,1,validation
+Cargo/GeneralCargo/Ship_C01S10N0011.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0012.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0013.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0014.tiff,General Cargo,1,validation
+Cargo/GeneralCargo/Ship_C01S10N0015.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0016.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0017.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0018.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0019.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0020.tiff,General Cargo,1,validation
+Cargo/GeneralCargo/Ship_C01S10N0021.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0022.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0023.tiff,General Cargo,1,validation
+Cargo/GeneralCargo/Ship_C01S10N0024.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0025.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0026.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0027.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0028.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0029.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0030.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0031.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0032.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0033.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0034.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0035.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0036.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0037.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0038.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0039.tiff,General Cargo,1,train
+Cargo/GeneralCargo/Ship_C01S10N0040.tiff,General Cargo,1,test
+Cargo/GeneralCargo/Ship_C01S10N0041.tiff,General Cargo,1,train
+Fishing/Fishing/Ship_C04S02N0001.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0002.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0003.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0004.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0005.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0006.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0007.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0008.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0009.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0010.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0011.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0012.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0013.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0014.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0015.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0016.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0017.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0018.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0019.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0020.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0021.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0022.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0023.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0024.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0025.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0026.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0027.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0028.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0029.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0030.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0031.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0032.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0033.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0034.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0035.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0036.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0037.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0038.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0039.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0040.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0041.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0042.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0043.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0044.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0045.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0046.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0047.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0048.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0049.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0050.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0051.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0052.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0053.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0054.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0055.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0056.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0057.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0058.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0059.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0060.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0061.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0062.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0063.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0064.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0065.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0066.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0067.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0068.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0069.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0070.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0071.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0072.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0073.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0074.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0075.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0076.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0077.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0078.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0079.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0080.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0081.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0082.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0083.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0084.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0085.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0086.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0087.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0088.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0089.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0090.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0091.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0092.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0093.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0094.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0095.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0096.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0097.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0098.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0099.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0100.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0101.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0102.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0103.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0104.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0105.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0106.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0107.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0108.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0109.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0110.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0111.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0112.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0113.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0114.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0115.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0116.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0117.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0118.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0119.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0120.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0121.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0122.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0123.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0124.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0125.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0126.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0127.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0128.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0129.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0130.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0131.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0132.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0133.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0134.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0135.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0136.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0137.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0138.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0139.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0140.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0141.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0142.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0143.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0144.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0145.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0146.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0147.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0148.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0149.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0150.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0151.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0152.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0153.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0154.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0155.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0156.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0157.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0158.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0159.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0160.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0161.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0162.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0163.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0164.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0165.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0166.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0167.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0168.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0169.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0170.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0171.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0172.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0173.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0174.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0175.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0176.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0177.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0178.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0179.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0180.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0181.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0182.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0183.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0184.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0185.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0186.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0187.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0188.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0189.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0190.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0191.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0192.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0193.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0194.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0195.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0196.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0197.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0198.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0199.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0200.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0201.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0202.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0203.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0204.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0205.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0206.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0207.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0208.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0209.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0210.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0211.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0212.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0213.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0214.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0215.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0216.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0217.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0218.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0219.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0220.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0221.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0222.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0223.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0224.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0225.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0226.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0227.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0228.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0229.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0230.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0231.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0232.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0233.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0234.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0235.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0236.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0237.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0238.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0239.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0240.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0241.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0242.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0243.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0244.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0245.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0246.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0247.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0248.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0249.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0250.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0251.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0252.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0253.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0254.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0255.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0256.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0257.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0258.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0259.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0260.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0261.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0262.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0263.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0264.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0265.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0266.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0267.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0268.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0269.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0270.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0271.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0272.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0273.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0274.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0275.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0276.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0277.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0278.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0279.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0280.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0281.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0282.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0283.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0284.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0285.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0286.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0287.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0288.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0289.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0290.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0291.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0292.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0293.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0294.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0295.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0296.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0297.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0298.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0299.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0300.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0301.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0302.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0303.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0304.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0305.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0306.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0307.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0308.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0309.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0310.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0311.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0312.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0313.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0314.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0315.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0316.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0317.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0318.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0319.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0320.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0321.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0322.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0323.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0324.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0325.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0326.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0327.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0328.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0329.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0330.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0331.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0332.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0333.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0334.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0335.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0336.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0337.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0338.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0339.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0340.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0341.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0342.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0343.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0344.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0345.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0346.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0347.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0348.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0349.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0350.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0351.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0352.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0353.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0354.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0355.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0356.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0357.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0358.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0359.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0360.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0361.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0362.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0363.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0364.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0365.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0366.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0367.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0368.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0369.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0370.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0371.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0372.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0373.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0374.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0375.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0376.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0377.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0378.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0379.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0380.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0381.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0382.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0383.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0384.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0385.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0386.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0387.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0388.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0389.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0390.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0391.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0392.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0393.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0394.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0395.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0396.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0397.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0398.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0399.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0400.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0401.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0402.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0403.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0404.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0405.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0406.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0407.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0408.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0409.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0410.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0411.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0412.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0413.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0414.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0415.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0416.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0417.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0418.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0419.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0420.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0421.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0422.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0423.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0424.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0425.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0426.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0427.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0428.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0429.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0430.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0431.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0432.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0433.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0434.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0435.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0436.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0437.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0438.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0439.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0440.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0441.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0442.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0443.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0444.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0445.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0446.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0447.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0448.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0449.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0450.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0451.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0452.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0453.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0454.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0455.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0456.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0457.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0458.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0459.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0460.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0461.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0462.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0463.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0464.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0465.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0466.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0467.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0468.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0469.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0470.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0471.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0472.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0473.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0474.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0475.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0476.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0477.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0478.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0479.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0480.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0481.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0482.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0483.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0484.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0485.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0486.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0487.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0488.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0489.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0490.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0491.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0492.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0493.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0494.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0495.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0496.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0497.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0498.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0499.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0500.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0501.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0502.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0503.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0504.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0505.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0506.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0507.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0508.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0509.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0510.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0511.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0512.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0513.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0514.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0515.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0516.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0517.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0518.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0519.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0520.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0521.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0522.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0523.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0524.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0525.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0526.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0527.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0528.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0529.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0530.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0531.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0532.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0533.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0534.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0535.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0536.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0537.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0538.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0539.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0540.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0541.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0542.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0543.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0544.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0545.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0546.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0547.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0548.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0549.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0550.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0551.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0552.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0553.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0554.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0555.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0556.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0557.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0558.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0559.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0560.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0561.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0562.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0563.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0564.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0565.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0566.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0567.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0568.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0569.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0570.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0571.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0572.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0573.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0574.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0575.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0576.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0577.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0578.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0579.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0580.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0581.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0582.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0583.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0584.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0585.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0586.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0587.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0588.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0589.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0590.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0591.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0592.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0593.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0594.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0595.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0596.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0597.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0598.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0599.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0600.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0601.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0602.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0603.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0604.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0605.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0606.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0607.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0608.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0609.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0610.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0611.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0612.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0613.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0614.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0615.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0616.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0617.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0618.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0619.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0620.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0621.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0622.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0623.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0624.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0625.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0626.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0627.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0628.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0629.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0630.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0631.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0632.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0633.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0634.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0635.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0636.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0637.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0638.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0639.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0640.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0641.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0642.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0643.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0644.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0645.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0646.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0647.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0648.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0649.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0650.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0651.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0652.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0653.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0654.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0655.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0656.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0657.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0658.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0659.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0660.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0661.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0662.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0663.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0664.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0665.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0666.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0667.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0668.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0669.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0670.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0671.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0672.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0673.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0674.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0675.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0676.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0677.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0678.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0679.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0680.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0681.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0682.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0683.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0684.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0685.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0686.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0687.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0688.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0689.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0690.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0691.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0692.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0693.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0694.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0695.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0696.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0697.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0698.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0699.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0700.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0701.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0702.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0703.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0704.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0705.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0706.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0707.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0708.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0709.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0710.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0711.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0712.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0713.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0714.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0715.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0716.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0717.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0718.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0719.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0720.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0721.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0722.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0723.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0724.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0725.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0726.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0727.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0728.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0729.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0730.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0731.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0732.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0733.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0734.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0735.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0736.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0737.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0738.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0739.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0740.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0741.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0742.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0743.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0744.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0745.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0746.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0747.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0748.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0749.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0750.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0751.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0752.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0753.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0754.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0755.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0756.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0757.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0758.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0759.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0760.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0761.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0762.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0763.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0764.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0765.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0766.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0767.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0768.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0769.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0770.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0771.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0772.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0773.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0774.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0775.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0776.tiff,Fishing,2,validation
+Fishing/Fishing/Ship_C04S02N0777.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0778.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0779.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0780.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0781.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0782.tiff,Fishing,2,test
+Fishing/Fishing/Ship_C04S02N0783.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0784.tiff,Fishing,2,train
+Fishing/Fishing/Ship_C04S02N0785.tiff,Fishing,2,validation
+Tanker/Tanker/Ship_C12S09N0001.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0002.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0003.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0004.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0005.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0006.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0007.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0008.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0009.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0010.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0011.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0012.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0013.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0014.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0015.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0016.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0017.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0018.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0019.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0020.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0021.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0022.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0023.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0024.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0025.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0026.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0027.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0028.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0029.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0030.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0031.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0032.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0033.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0034.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0035.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0036.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0037.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0038.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0039.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0040.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0041.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0042.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0043.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0044.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0045.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0046.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0047.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0048.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0049.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0050.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0051.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0052.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0053.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0054.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0055.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0056.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0057.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0058.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0059.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0060.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0061.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0062.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0063.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0064.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0065.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0066.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0067.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0068.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0069.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0070.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0071.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0072.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0073.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0074.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0075.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0076.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0077.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0078.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0079.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0080.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0081.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0082.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0083.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0084.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0085.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0086.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0087.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0088.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0089.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0090.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0091.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0092.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0093.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0094.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0095.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0096.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0097.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0098.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0099.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0100.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0101.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0102.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0103.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0104.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0105.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0106.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0107.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0108.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0109.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0110.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0111.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0112.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0113.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0114.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0115.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0116.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0117.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0118.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0119.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0120.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0121.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0122.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0123.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0124.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0125.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0126.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0127.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0128.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0129.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0130.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0131.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0132.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0133.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0134.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0135.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0136.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0137.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0138.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0139.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0140.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0141.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0142.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0143.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0144.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0145.tiff,Tanker,0,test
+Tanker/Tanker/Ship_C12S09N0146.tiff,Tanker,0,train
+Tanker/Tanker/Ship_C12S09N0147.tiff,Tanker,0,validation
+Tanker/Tanker/Ship_C12S09N0148.tiff,Tanker,0,train

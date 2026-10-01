@@ -1,0 +1,24 @@
+SAR ship classification experiment
+
+Goal: opensar4
+Model: saratrx
+Training mode: linear_probe
+Runs: 5
+Seeds: 42, 43, 44, 45, 46
+Dataset fingerprint: 85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc
+Total time: 00:09:02
+
+Results by run (%)
+ seed    OA    AA   APr   AF1  best_epoch     time
+   42 90.08 76.09 85.27 79.26          34 00:01:46
+   43 87.30 64.92 88.93 68.46          15 00:01:46
+   44 85.71 70.82 77.41 73.51          20 00:01:46
+   45 80.95 65.65 66.58 65.70           8 00:01:46
+   46 84.92 63.49 69.40 65.38          24 00:01:46
+
+Final metrics: mean ± sample standard deviation (%)
+Metric  mean  std mean ± std (%)
+    OA 85.79 3.35   85.79 ± 3.35
+    AA 68.19 5.21   68.19 ± 5.21
+   APr 77.52 9.69   77.52 ± 9.69
+   AF1 70.46 5.90   70.46 ± 5.90

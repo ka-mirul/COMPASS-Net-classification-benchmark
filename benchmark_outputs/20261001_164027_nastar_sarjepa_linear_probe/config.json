@@ -1,0 +1,51 @@
+{
+  "created_at": "2026-10-01T16:40:31.892013+01:00",
+  "model": "sarjepa",
+  "goal": "nastar",
+  "run_size": "full",
+  "training_mode": "linear_probe",
+  "classes": [
+    "Tanker",
+    "Fishing",
+    "Cargo"
+  ],
+  "image_size": 256,
+  "image_transform": "center_crop",
+  "input_channels": 1,
+  "polarizations": null,
+  "input_projection_adaptation": "none",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 32,
+    "epochs": 50,
+    "head_lr": 0.001,
+    "backbone_lr": 0.0,
+    "weight_decay": 0.0005,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "warmup_epochs": 2
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "source_checkpoint": "SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "source_checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "source_repository": "SAR-JEPA",
+  "source_commit": "1f17f9007481c563653066c0c49dbd55c0846298",
+  "source_worktree_status": [
+    "?? .gitignore"
+  ]
+}

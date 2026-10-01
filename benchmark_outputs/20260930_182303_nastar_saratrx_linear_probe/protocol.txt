@@ -1,0 +1,13 @@
+Dataset goal: nastar
+Classes: Tanker, Fishing, Cargo
+Input: 256 x 256, center_crop
+Input channels: single-channel intensity
+Pretrained input projection: unchanged
+Split: class-stratified 70% training, 10% validation, 20% testing
+Repeated runs: 5 independent seeded splits (42, 43, 44, 45, 46)
+Model selection: highest validation AF1; test set evaluated once with that checkpoint
+OA: overall accuracy
+AA: macro-average recall
+APr: macro-average precision
+AF1: macro-average F1-score
+Final result: arithmetic mean ± sample standard deviation across runs

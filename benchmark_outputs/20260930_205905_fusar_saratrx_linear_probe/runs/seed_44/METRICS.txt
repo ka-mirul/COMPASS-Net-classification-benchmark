@@ -1,0 +1,28 @@
+Seed: 44
+Best epoch: 38
+Best validation AF1: 66.33%
+Training time: 00:04:31
+Peak CUDA memory: 870.9 MB
+
+Test metrics
+       Metric  Validation    Test Unit
+           OA     82.5758 84.4106    %
+           AA     67.6316 65.5526    %
+          APr     68.3020 69.2917    %
+          AF1     66.3300 66.4303    %
+Cross-entropy      0.6170  0.5141 loss
+
+Per-class test metrics (%)
+         class  precision  recall    f1  support
+        Tanker     100.00   93.33 96.55       30
+ General Cargo      33.33   12.50 18.18        8
+       Fishing      89.44   91.72 90.57      157
+Container Ship      50.00   53.85 51.85       13
+  Bulk Carrier      73.68   76.36 75.00       55
+
+Split counts
+label_name  Tanker  General Cargo  Fishing  Container Ship  Bulk Carrier
+split
+train          103             29      549              45           191
+validation      15              4       79               7            27
+test            30              8      157              13            55

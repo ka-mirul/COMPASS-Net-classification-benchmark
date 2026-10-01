@@ -1,0 +1,117 @@
+{
+  "seed": 44,
+  "best_epoch": 30,
+  "best_validation_loss": 0.7279795107950691,
+  "test_loss": 0.7372624553166903,
+  "elapsed_seconds": 110.29373353699975,
+  "peak_cuda_memory_MB": 464.64013671875,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.7938931297709924,
+  "best_validation_AA": 0.5911181779281908,
+  "best_validation_APr": 0.7840519974635383,
+  "best_validation_AF1": 0.6357556528329205,
+  "OA": 0.7692307692307693,
+  "AA": 0.4207098197249957,
+  "APr": 0.5163109756097561,
+  "AF1": 0.43367196314462,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_144509_opensar6_sarjepa_linear_probe/runs/seed_44/best_model.pth",
+  "trained_model_sha256": "8f8c27e1da45b905a4bced133c60f1caf58116cdc922f1afab3f46174b14cd60",
+  "split_manifest": "splits/seed_44.csv",
+  "dataset_fingerprint": "799abf442d818be4e9c26fcfab4506b0666e1f4b61d7f7507b305e0846672603",
+  "confusion_matrix": [
+    [
+      143,
+      15,
+      0,
+      0,
+      4,
+      1
+    ],
+    [
+      18,
+      24,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      4,
+      1
+    ],
+    [
+      4,
+      1,
+      1,
+      0,
+      31,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.8666666666666667,
+      "recall": 0.8773006134969326,
+      "f1": 0.8719512195121951,
+      "support": 163
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.5853658536585366,
+      "recall": 0.5454545454545454,
+      "f1": 0.5647058823529412,
+      "support": 44
+    },
+    {
+      "class": "Dredger",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    {
+      "class": "Fishing",
+      "precision": 1.0,
+      "recall": 0.2857142857142857,
+      "f1": 0.4444444444444444,
+      "support": 7
+    },
+    {
+      "class": "Tanker",
+      "precision": 0.6458333333333334,
+      "recall": 0.8157894736842105,
+      "f1": 0.7209302325581395,
+      "support": 38
+    },
+    {
+      "class": "Tug",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    }
+  ]
+}

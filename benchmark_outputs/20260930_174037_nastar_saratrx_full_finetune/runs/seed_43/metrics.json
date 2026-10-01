@@ -1,0 +1,63 @@
+{
+  "seed": 43,
+  "best_epoch": 32,
+  "best_validation_loss": 0.8895761023549472,
+  "test_loss": 1.2095107920029584,
+  "elapsed_seconds": 494.9307574049999,
+  "peak_cuda_memory_MB": 3313.4951171875,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.7411764705882353,
+  "best_validation_AA": 0.6992753623188405,
+  "best_validation_APr": 0.7427469135802469,
+  "best_validation_AF1": 0.7127653708298869,
+  "OA": 0.6941176470588235,
+  "AA": 0.6675724637681159,
+  "APr": 0.694760450574404,
+  "AF1": 0.6795288611748403,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_174037_nastar_saratrx_full_finetune/runs/seed_43/best_model.pth",
+  "trained_model_sha256": "a5b588710bacbc163e90c96ee9ebe086a365465cc753df5f0620c10e04443ef6",
+  "split_manifest": "splits/seed_43.csv",
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "confusion_matrix": [
+    [
+      25,
+      2,
+      19
+    ],
+    [
+      1,
+      22,
+      9
+    ],
+    [
+      17,
+      4,
+      71
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.5813953488372093,
+      "recall": 0.5434782608695652,
+      "f1": 0.5617977528089888,
+      "support": 46
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.7857142857142857,
+      "recall": 0.6875,
+      "f1": 0.7333333333333333,
+      "support": 32
+    },
+    {
+      "class": "Cargo",
+      "precision": 0.7171717171717171,
+      "recall": 0.7717391304347826,
+      "f1": 0.743455497382199,
+      "support": 92
+    }
+  ]
+}

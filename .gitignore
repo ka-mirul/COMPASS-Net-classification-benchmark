@@ -1,0 +1,43 @@
+# Local datasets and downloaded archives
+/NovaSAR_dataset/
+/FUSAR_Ship1.0/
+/OpenSARShip_1/
+/OpenSARShip_2/
+/*.zip
+
+# Upstream model checkouts are downloaded separately
+/SARATR-X/
+/SAR-JEPA/
+
+# Local drafts and workspace metadata
+/*.pdf
+/report-source.md
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.keras
+pytorch_model.bin
+model*.bin
+**/checkpoints/
+**/weights/
+
+# TensorBoard data
+events.out.tfevents*
+**/events.out.tfevents*
+**/tensorboard/
+
+# Local environments and caches
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+/tmp/
+.DS_Store

@@ -1,0 +1,19 @@
+Rows are true classes; columns are predicted classes.
+
+Raw counts
+         Tanker  Fishing  Cargo
+Tanker       19        5     22
+Fishing       4       21      7
+Cargo        17       17     58
+
+Row-normalized recall
+         Tanker  Fishing  Cargo
+Tanker   0.4130   0.1087 0.4783
+Fishing  0.1250   0.6562 0.2188
+Cargo    0.1848   0.1848 0.6304
+
+Column-normalized precision
+         Tanker  Fishing  Cargo
+Tanker   0.4750   0.1163 0.2529
+Fishing  0.1000   0.4884 0.0805
+Cargo    0.4250   0.3953 0.6667

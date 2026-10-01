@@ -1,0 +1,4 @@
+split,Tanker,Fishing,Cargo
+train,159,110,321
+validation,23,16,46
+test,46,32,92

@@ -1,0 +1,123 @@
+{
+  "created_at": "2026-10-01T13:56:12.620588+01:00",
+  "model": "sarjepa",
+  "goal": "opensar4",
+  "run_size": "full",
+  "training_mode": "full_finetune",
+  "classes": [
+    "Tanker",
+    "Fishing",
+    "Container Ship",
+    "Bulk Carrier"
+  ],
+  "image_size": 128,
+  "image_transform": "resize",
+  "input_channels": 2,
+  "polarizations": [
+    "VV",
+    "VH"
+  ],
+  "input_projection_adaptation": "sum pretrained input-channel weights and distribute equally across VV/VH",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 8,
+    "epochs": 50,
+    "head_lr": 0.0001,
+    "backbone_lr": 1e-05,
+    "weight_decay": 0.0005,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "warmup_epochs": 5
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "85bc0829eab292ef3e10ec59f34a7f2f3cc76b47a11e0fdbf2ddcf115ebca5bc",
+  "source_checkpoint": "SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "source_checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "source_repository": "SAR-JEPA",
+  "source_commit": "1f17f9007481c563653066c0c49dbd55c0846298",
+  "source_worktree_status": [
+    "?? .gitignore"
+  ],
+  "seed": 43,
+  "best_epoch": 15,
+  "best_validation_loss": 0.6284340421749851,
+  "test_loss": 0.6856965315084727,
+  "elapsed_seconds": 358.7613619780001,
+  "peak_cuda_memory_MB": 1704.17919921875,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.84251968503937,
+  "best_validation_AA": 0.7250700198389544,
+  "best_validation_APr": 0.846547314578005,
+  "best_validation_AF1": 0.7602651839178785,
+  "OA": 0.8134920634920635,
+  "AA": 0.6194497502820073,
+  "APr": 0.7474721750613093,
+  "AF1": 0.6591182036724464,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_135607_opensar4_sarjepa_full_finetune/runs/seed_43/best_model.pth",
+  "trained_model_sha256": "c4812894a8a8752161ad740796440b66892f78857b0831391fd18c42d7eaeb49",
+  "split_manifest": "splits/seed_43.csv",
+  "confusion_matrix": [
+    [
+      28,
+      1,
+      0,
+      9
+    ],
+    [
+      5,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      23,
+      19
+    ],
+    [
+      3,
+      0,
+      8,
+      152
+    ]
+  ],
+  "split_counts": {
+    "Tanker": {
+      "train": 132,
+      "validation": 19,
+      "test": 38
+    },
+    "Fishing": {
+      "train": 24,
+      "validation": 4,
+      "test": 7
+    },
+    "Container Ship": {
+      "train": 152,
+      "validation": 22,
+      "test": 44
+    },
+    "Bulk Carrier": {
+      "train": 571,
+      "validation": 82,
+      "test": 163
+    }
+  }
+}

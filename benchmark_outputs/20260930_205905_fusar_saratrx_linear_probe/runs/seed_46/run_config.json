@@ -1,0 +1,138 @@
+{
+  "created_at": "2026-09-30T20:59:09.073237+01:00",
+  "model": "saratrx",
+  "goal": "fusar",
+  "run_size": "full",
+  "training_mode": "linear_probe",
+  "classes": [
+    "Tanker",
+    "General Cargo",
+    "Fishing",
+    "Container Ship",
+    "Bulk Carrier"
+  ],
+  "image_size": 256,
+  "image_transform": "center_crop",
+  "input_channels": 1,
+  "polarizations": null,
+  "input_projection_adaptation": "none",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 32,
+    "epochs": 50,
+    "head_lr": 0.001,
+    "backbone_lr": 0.0,
+    "weight_decay": 0.0001,
+    "betas": [
+      0.9,
+      0.95
+    ],
+    "warmup_epochs": 2
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "582b7536c5cc56d0ae2264850ac2aa174c75030561f6377e477417d2a0348ec3",
+  "source_checkpoint": "SARATR-X/checkpoints/checkpoint-200.pth",
+  "source_checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "source_repository": "SARATR-X",
+  "source_commit": "8f110555e32e5777034c5ab6729d23bcf9741936",
+  "source_worktree_status": [
+    "?? .gitignore",
+    "?? requirements-notebook.txt"
+  ],
+  "seed": 46,
+  "best_epoch": 4,
+  "best_validation_loss": 0.7382761025519082,
+  "test_loss": 0.7858058633459838,
+  "elapsed_seconds": 270.41382362400327,
+  "peak_cuda_memory_MB": 870.89404296875,
+  "checkpoint": "${PROJECT_ROOT}/SARATR-X/checkpoints/checkpoint-200.pth",
+  "checkpoint_sha256": "aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897",
+  "checkpoint_tensors_loaded": 299,
+  "best_validation_OA": 0.8257575757575758,
+  "best_validation_AA": 0.602196771817025,
+  "best_validation_APr": 0.5711541325390915,
+  "best_validation_AF1": 0.5851255146141888,
+  "OA": 0.7908745247148289,
+  "AA": 0.6300002227072291,
+  "APr": 0.7375456145922125,
+  "AF1": 0.61059475385932,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20260930_205905_fusar_saratrx_linear_probe/runs/seed_46/best_model.pth",
+  "trained_model_sha256": "da268cbfcc206f1bb7cf8681f2202b7e653549f2e97c200f090bbf8c7ee81230",
+  "split_manifest": "splits/seed_46.csv",
+  "confusion_matrix": [
+    [
+      27,
+      0,
+      2,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      4,
+      1,
+      2
+    ],
+    [
+      8,
+      0,
+      127,
+      7,
+      15
+    ],
+    [
+      1,
+      0,
+      4,
+      6,
+      2
+    ],
+    [
+      2,
+      0,
+      4,
+      2,
+      47
+    ]
+  ],
+  "split_counts": {
+    "Tanker": {
+      "train": 103,
+      "validation": 15,
+      "test": 30
+    },
+    "General Cargo": {
+      "train": 29,
+      "validation": 4,
+      "test": 8
+    },
+    "Fishing": {
+      "train": 549,
+      "validation": 79,
+      "test": 157
+    },
+    "Container Ship": {
+      "train": 45,
+      "validation": 7,
+      "test": 13
+    },
+    "Bulk Carrier": {
+      "train": 191,
+      "validation": 27,
+      "test": 55
+    }
+  }
+}

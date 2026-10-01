@@ -1,0 +1,97 @@
+{
+  "seed": 45,
+  "best_epoch": 20,
+  "best_validation_loss": 0.7142653812400319,
+  "test_loss": 0.711049874932877,
+  "elapsed_seconds": 829.6831529289993,
+  "peak_cuda_memory_MB": 2632.39990234375,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.8484848484848485,
+  "best_validation_AA": 0.672762708458911,
+  "best_validation_APr": 0.6798095238095238,
+  "best_validation_AF1": 0.6659209607596704,
+  "OA": 0.8212927756653993,
+  "AA": 0.587216901993972,
+  "APr": 0.5890228845794101,
+  "AF1": 0.5823722000713152,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_174246_fusar_sarjepa_full_finetune/runs/seed_45/best_model.pth",
+  "trained_model_sha256": "bb2e243d090c4f10425be67770e1198c64602f4d4f8574b96c5512dcc7a09d30",
+  "split_manifest": "splits/seed_45.csv",
+  "dataset_fingerprint": "582b7536c5cc56d0ae2264850ac2aa174c75030561f6377e477417d2a0348ec3",
+  "confusion_matrix": [
+    [
+      29,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      5,
+      1,
+      1
+    ],
+    [
+      4,
+      2,
+      141,
+      0,
+      10
+    ],
+    [
+      1,
+      0,
+      3,
+      4,
+      5
+    ],
+    [
+      0,
+      2,
+      8,
+      3,
+      42
+    ]
+  ],
+  "per_class": [
+    {
+      "class": "Tanker",
+      "precision": 0.8285714285714286,
+      "recall": 0.9666666666666667,
+      "f1": 0.8923076923076924,
+      "support": 30
+    },
+    {
+      "class": "General Cargo",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 8
+    },
+    {
+      "class": "Fishing",
+      "precision": 0.8924050632911392,
+      "recall": 0.8980891719745223,
+      "f1": 0.8952380952380953,
+      "support": 157
+    },
+    {
+      "class": "Container Ship",
+      "precision": 0.5,
+      "recall": 0.3076923076923077,
+      "f1": 0.38095238095238093,
+      "support": 13
+    },
+    {
+      "class": "Bulk Carrier",
+      "precision": 0.7241379310344828,
+      "recall": 0.7636363636363637,
+      "f1": 0.7433628318584071,
+      "support": 55
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "created_at": "2026-10-01T15:30:13.918955+01:00",
+  "model": "sarjepa",
+  "goal": "nastar",
+  "run_size": "full",
+  "training_mode": "full_finetune",
+  "classes": [
+    "Tanker",
+    "Fishing",
+    "Cargo"
+  ],
+  "image_size": 256,
+  "image_transform": "center_crop",
+  "input_channels": 1,
+  "polarizations": null,
+  "input_projection_adaptation": "none",
+  "split": {
+    "training": 0.7,
+    "validation": 0.1,
+    "testing": 0.2
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyperparameters": {
+    "batch_size": 8,
+    "epochs": 50,
+    "head_lr": 0.0001,
+    "backbone_lr": 1e-05,
+    "weight_decay": 0.0005,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "warmup_epochs": 5
+  },
+  "strict_reproducibility": true,
+  "save_models": true,
+  "dataset_fingerprint": "11e0e0080537b3b6770492ae183b85f4eca747bb26e9374b986b6052088db4bf",
+  "source_checkpoint": "SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "source_checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "source_repository": "SAR-JEPA",
+  "source_commit": "1f17f9007481c563653066c0c49dbd55c0846298",
+  "source_worktree_status": [
+    "?? .gitignore"
+  ],
+  "seed": 44,
+  "best_epoch": 25,
+  "best_validation_loss": 0.9357854169957778,
+  "test_loss": 0.9460764359025394,
+  "elapsed_seconds": 593.8774239919994,
+  "peak_cuda_memory_MB": 2632.37646484375,
+  "checkpoint": "${PROJECT_ROOT}/SAR-JEPA/checkpoints/weights/SAR-JEPA/checkpoint-200.pth",
+  "checkpoint_sha256": "0894f1472f5beaad0e7663cb4da6261a9d7547e73016bf845b0b2c227d4b7ea0",
+  "checkpoint_tensors_loaded": 161,
+  "best_validation_OA": 0.6705882352941176,
+  "best_validation_AA": 0.6277173913043478,
+  "best_validation_APr": 0.689952153110048,
+  "best_validation_AF1": 0.6302188202013478,
+  "OA": 0.6235294117647059,
+  "AA": 0.583786231884058,
+  "APr": 0.6138523391812866,
+  "AF1": 0.5836425104022193,
+  "trained_model": "${PROJECT_ROOT}/benchmark_outputs/20261001_153008_nastar_sarjepa_full_finetune/runs/seed_44/best_model.pth",
+  "trained_model_sha256": "4b4eaa32ccec3db3956285ddc96c30a1a1276c9ab814afa3e5f155c39d763cd3",
+  "split_manifest": "splits/seed_44.csv",
+  "confusion_matrix": [
+    [
+      12,
+      0,
+      34
+    ],
+    [
+      0,
+      23,
+      9
+    ],
+    [
+      12,
+      9,
+      71
+    ]
+  ],
+  "split_counts": {
+    "Tanker": {
+      "train": 159,
+      "validation": 23,
+      "test": 46
+    },
+    "Fishing": {
+      "train": 110,
+      "validation": 16,
+      "test": 32
+    },
+    "Cargo": {
+      "train": 321,
+      "validation": 46,
+      "test": 92
+    }
+  }
+}
