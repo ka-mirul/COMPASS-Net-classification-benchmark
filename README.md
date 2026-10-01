@@ -1,6 +1,6 @@
 # SAR ship classification benchmark
 
-This repository contains the experiments used to compare SARATR-X and SAR-JEPA on NASTaR, FUSAR-Ship, and OpenSARShip. Run the experiments from `sar_ship_benchmark.ipynb`.
+Run the experiments from `sar_ship_benchmark.ipynb`.
 
 The datasets and model weights are not included. The files in `benchmark_outputs/` contain the results, configurations, data splits, training histories, predictions, logs, and confusion matrices. Fine-tuned checkpoints and TensorBoard files are excluded.
 
@@ -27,7 +27,7 @@ git -C SAR-JEPA checkout 1f17f9007481c563653066c0c49dbd55c0846298
 
 ### SARATR-X
 
-Download `checkpoint-200.pth` from the [official SARATR-X page on Hugging Face](https://huggingface.co/waterdisappear/SARATR-X/blob/main/weight/186K_all/checkpoint-200.pth). You may need to sign in and accept the access conditions first.
+Download `checkpoint-200.pth` from the [official SARATR-X page on Hugging Face](https://huggingface.co/waterdisappear/SARATR-X/blob/main/weight/186K_all/checkpoint-200.pth). 
 
 Save it here:
 
@@ -43,7 +43,7 @@ aa57a46488d637a8d735c5d470b9a28b83b8e660ae98caf991cd183ae3643897
 
 ### SAR-JEPA
 
-The SAR-JEPA checkpoint is available from the authors' [Kaggle model page](https://www.kaggle.com/models/liweijie19/sar-jepa). Use model version `liweijie19/sar-jepa/pytorch/default/1` and download:
+The SAR-JEPA checkpoint is available from [Kaggle model page](https://www.kaggle.com/models/liweijie19/sar-jepa). Use model version `liweijie19/sar-jepa/pytorch/default/1` and download:
 
 ```text
 weights/SAR-JEPA/checkpoint-200.pth
@@ -91,17 +91,3 @@ OpenSARShip_1/
 OpenSARShip_2/
 ```
 
-There is no need to move or rename the images inside the datasets.
-
-## Run an experiment
-
-Open `sar_ship_benchmark.ipynb` and change the four settings in the first cell:
-
-- `MODEL`: `saratrx` or `sarjepa`
-- `RUN_SIZE`: `smoke` or `full`
-- `TRAINING_MODE`: `linear_probe`, `partial_finetune`, or `full_finetune`
-- `GOAL`: `opensar4`, `opensar6`, `nastar`, or `fusar`
-
-A full experiment runs five fixed seeds. The notebook saves each run separately and reports the final result as mean ± standard deviation.
-
-All training modes start from the downloaded pretrained weights. `linear_probe` trains only the classification head, `partial_finetune` also updates the last part of the encoder, and `full_finetune` updates the complete model.
